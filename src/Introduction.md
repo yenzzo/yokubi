@@ -10,7 +10,7 @@ O Guia de Gramática **Universal**.
 Este guia é, basicamente, uma versão alternativa do <a href="https://sakubi.neocities.org/">guia de gramática Sakubi</a>. O conteúdo principal, juntamente ao guia, já foram terminados, embora o projeto como um todo <b>ainda esteja em fase de desenvolvimento</b>.
 </div>
 
-Yokubi é um projeto **aberto** **mantido pela comunidade**. Portanto, aceitamos qualquer tipo de contribuição positiva.
+Yokubi é um projeto **aberto** **mantido pela comunidade**; portanto, aceitamos qualquer tipo de contribuição positiva.
 
 Sinta-se à vontade para entrar em nossa [comunidade no discord](https://discord.gg/KZj4dVFDzu) para conversar, fazer sugestões ou sugerir revisões sobre o projeto. [O principal idioma falado no servidor é o _inglês_, lembre-se disso.]
 
