@@ -16,4 +16,4 @@ Sinta-se à vontade para entrar em nossa [comunidade no discord](https://discord
 
 Se você deseja contribuir com o projeto, pode acessar o original [no github](https://github.com/Morgawr/yokubi). Se possível, contribua para [esta tradução](https://github.com/yenzzo/yokubi).
 
-Não pule os capítulos [Antes de começar](./Before-you-begin.md) e [Prefácio](./Preamble.md) — nele, você aprenderá como utilizar o guia da melhor forma possível.
+Não pule os capítulos [Antes de começar](./Before-you-begin.md) e [Prefácio](./Preamble.md) — neles, você aprenderá como utilizar o guia da melhor forma possível.
