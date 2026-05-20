@@ -1,5 +1,7 @@
 # Summary
 
+[Sobre a tradução](./About-the-translation.md)
+[Notas de tradução](TranslationNotes.md)
 [Introduction](./Introduction.md)
 [Before you begin](./Before-you-begin.md)
 [Preamble](./Preamble.md)
