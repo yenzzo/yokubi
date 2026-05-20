@@ -7,7 +7,7 @@ O Guia de Gramática **Universal**.
 *Dedicado àqueles que estão aprendendo, querem aprender e aprenderão.*
 
 <div class="warning">
-Este guia é, basicamente, uma versão alternativa do <a href="https://sakubi.neocities.org/">guia de gramática Sakubi</a>. O conteúdo principal, juntamente ao guia, já foram terminados, embora o projeto como um todo <b>ainda está em fase de desenvolvimento</b>.
+Este guia é, basicamente, uma versão alternativa do <a href="https://sakubi.neocities.org/">guia de gramática Sakubi</a>. O conteúdo principal, juntamente ao guia, já foram terminados, embora o projeto como um todo <b>ainda esteja em fase de desenvolvimento</b>.
 </div>
 
 Yokubi é um projeto **aberto** **mantido pela comunidade**. Portanto, aceitamos qualquer tipo de contribuição positiva.
