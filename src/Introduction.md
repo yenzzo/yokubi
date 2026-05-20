@@ -1,19 +1,19 @@
 ![logo](images/logo.svg)
 
-Welcome to **Yokubi**!
+Seja bem-vindo ao **Yokubi**!
 
-The **Common** Grammar Guide.
+O Guia de Gramática **Universal**.
 
-*Dedicated to all those who learn, want to learn, and **will** learn.* 
+*Dedicado àqueles que aprendem, querem aprender e **irão** aprender.*
 
 <div class="warning">
-This guide is a complete re-write and re-arrangement of <a href="https://sakubi.neocities.org/">the Sakubi grammar guide</a>. The full rewrite is <b>still not finished</b>, but the main content and guide are done.
+Este guia consiste numa reformulação completa do <a href="https://sakubi.neocities.org/">guia de gramática Sakubi</a>. A reescrição integral <b>permanece incompleta</b>; no entanto, o conteúdo principal e o guia como um todo já foram concluídos.
 </div>
 
-Yokubi is an **open** and **community-maintained** project. We accept all kinds of helpful contributions. 
+Yokubi é um projeto **aberto** **mantido pela comunidade**. Aceitamos qualquer forma de contribuição pertinente.
 
-You are welcome to join our [discord community](https://discord.gg/KZj4dVFDzu) for feedback, comments, reviews, or just to chat. 
+Sinta-se à vontade para entrar em nossa [comunidade no discord](https://discord.gg/KZj4dVFDzu) para conversar, fazer sugestões ou sugerir revisões sobre o projeto. Lembre-se, no entanto, que o idioma falado na comunidade é o **inglês**, portanto, se possível, comunique-se nesta língua.
 
-If you want to contribute, you can view the project [on github](https://github.com/Morgawr/yokubi) and file issues and pull requests. 
+Se você deseja contribuir, pode acessar o projeto original [no github](https://github.com/Morgawr/yokubi) e relatar erros e solicitar alterações (pull requests). Encorajo, de igual maneira, que você contribua com [esta tradução](https://github.com/yenzzo/yokubi)
 
-**DO NOT** skip reading the [Before you begin](./Before-you-begin.md) and [Preamble](./Preamble.md) pages. They give you instructions on how to use this guide.
+**DE MODO ALGUM** deixe de ler os capítulos [Antes de começar](./Before-you-begin.md) e [Prefácio](./Preamble.md). Neles estão contidas informações que irão ensinar o leitor a utilizar o guia.
