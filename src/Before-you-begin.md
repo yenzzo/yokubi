@@ -1,4 +1,3 @@
-
 # Antes de começar
 
 ## Do que você precisa?
@@ -13,7 +12,7 @@ Se você tem interesse em materiais que abordam assuntos além daqueles gramatic
 
 **Verifique:** 置 Como esse caractere é exibido no seu dispositivo? Se não há uma linha vertical no seu lado esquerdo, seu navegador está utilizando uma fonte chinesa para exibir caracteres japoneses. Dependendo do seu sistema operacional, há duas soluções muito comuns: instalar fontes japonesas ou modificar as configurações de idioma do seu dispositivo/browser.
 
-![](image1)
+![](https://files.catbox.moe/15xiw4.png)
 
 ## Como usar este guia para aprender japonês
 
@@ -61,5 +60,3 @@ referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 Apenas certifique-se de não esgotar as suas energias tentando masterizá-las [as explicações]. Maestria só é obtida mediante experiência concreta, no mundo real; no caso do aprendizado de idiomas, isso significa ler e ouvir.
-
-[image1]: https://files.catbox.moe/15xiw4.png
