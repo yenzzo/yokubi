@@ -14,6 +14,6 @@ Yokubi é um projeto **aberto** **mantido pela comunidade**; portanto, aceitamos
 
 Sinta-se à vontade para entrar em nossa [comunidade no discord](https://discord.gg/KZj4dVFDzu) para fazer sugestões, dar opiniões sobre o projeto ou apenas conversar.
 
-Se você deseja contribuir com o projeto, acesse o original [no github](https://github.com/Morgawr/yokubi). Se possível, contribua para [esta tradução](https://github.com/yenzzo/yokubi).
+Se você deseja contribuir com o projeto, acesse o original [aqui](https://github.com/Morgawr/yokubi) e a tradução [aqui](https://github.com/yenzzo/yokubi).
 
 Não pule os capítulos [Antes de começar](./Before-you-begin.md) e [Prefácio](./Preamble.md) — neles, você aprenderá como utilizar o guia da melhor forma possível.
