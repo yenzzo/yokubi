@@ -17,7 +17,7 @@ Se você tem interesse em materiais que abordam assuntos além daqueles gramatic
 
 ## Como usar este guia para aprender japonês
 
-Resumidamente, isto é um livro introdutório. Aqui, o seguinte lema é adotado: a única forma de aprender um idioma (e possivelmente tornar-se fluente) é através da imersão, isto é, o ator de, ativamente, 'consumir' o conteúdo do idioma que se deseja aprender. Dito isto, é importante salientar que o objetivo deste guia não é, de modo algum, lhe forçar a memorizar os conceitos gramaticais através de exercícios repetitivos — logo, tentar memorizá-lo não trará nenhum benefício ao leitor.
+Resumidamente, isto é um livro introdutório. Aqui, o seguinte lema é adotado: a única forma de aprender um idioma (e possivelmente tornar-se fluente) é através da imersão, isto é, o ato de, ativamente, 'consumir' o conteúdo do idioma que se deseja aprender. Dito isto, é importante salientar que o objetivo deste guia não é, de modo algum, lhe forçar a memorizar os conceitos gramaticais através de exercícios repetitivos — logo, tentar memorizá-lo não trará nenhum benefício ao leitor.
 
 Uma semana é demasiado tempo para dedicar a um capítulo somente; um dia, de igual maneira, ainda é muito tempo, mesmo que você esteja, juntamente ao estudo de novos conceitos, revisando os antigos.
 
