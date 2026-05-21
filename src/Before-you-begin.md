@@ -1,54 +1,52 @@
 
-# Before you begin
+# Antes de começar
 
-## What you need
+## Do que você precisa?
 
-This guide assumes that you know the hiragana and katakana and that you're studying basic Japanese vocabulary. The most efficient way to learn the kana (hiragana+katakana) is to drill it through brute force. You can use [a kana drill site](https://kuuuube.github.io/kana-quiz/kana/index.html) for this. You can also learn by exposure.
+Este guia pressupõe que você domina katakana, hiragana e está estudando o vocabulário do idioma japonês. A melhor forma de aprender o kana (katakana + hiragana) é através de repetição, vide [kana quiz](https://kuuuube.github.io/kana-quiz/kana/index.html).
 
-This guide assumes that you know what writing systems Japanese uses, and that you know what Japanese text looks like, and what Kanji are.
+Este guia pressupõe que você possui conhecimento de **a)** quais sistemas de escrita o idioma japonês utiliza, **b)** como um material textual de origem japonesa se parece e **c)** o que é kanji.
 
-This guide assumes that you're learning vocabulary outside this guide. It can't teach you enough words to be useful without getting in the way of the grammar.
+Por fim, este guia não irá lhe ensinar palavras o suficiente de modo que você possa negligenciar o estudo especializado de vocabulário; portanto, faz-se necessário o seu estudo à parte.
 
-If you need more guidance for things other than grammar, try the [loop](https://morg.systems/58465ab9).
+Se você tem interesse em materiais que abordam assuntos além daqueles gramaticais, experimente explorar o [loop](https://morg.systems/58465ab9).
 
-**Check this:** 置 How does this character render? If it's missing the vertical line on the left side, your browser is using Chinese fonts for Japanese. You may need to install Japanese fonts or change some system language settings.
+**Verifique:** 置 Como esse caractere é exibido no seu dispositivo? Se não há uma linha vertical no seu lado esquerdo, seu navegador está utilizando uma fonte chinesa para exibir caracteres japoneses. Dependendo do seu sistema operacional, há duas soluções muito comuns: instalar fontes japonesas ou modificar as configurações de idioma do seu dispositivo/browser.
 
 ![](image1)
 
-## How to use this guide and Learn Japanese
+## Como usar este guia para aprender japonês
 
-Basically, this guide is a primer. This guide takes a very specific stance: The only way to acquire language features and become fluent is to consume them in a real context. This guide doesn't try to drill you, and that's a good thing.
+Resumidamente, isto é um livro introdutório. Aqui, o seguinte lema é adotado: a única forma de aprender um idioma (e possivelmente tornar-se fluente) é através da imersão, isto é, o ator de, ativamente, 'consumir' o conteúdo do idioma que se deseja aprender. Dito isto, é importante salientar que o objetivo deste guia não é, de modo algum, lhe forçar a memorizar os conceitos gramaticais através de exercícios repetitivos — logo, tentar memorizá-lo não trará nenhum benefício ao leitor.
 
-When you read this guide, don't try to memorize it. It won't work.
+Uma semana é demasiado tempo para dedicar a um capítulo somente; um dia, de igual maneira, ainda é muito tempo, mesmo que você esteja, juntamente ao estudo de novos conceitos, revisando os antigos.
 
-You shouldn't spend a week on each lesson. In fact, one new lesson a day might be too slow, even if you're also reviewing old lessons.
+Cada capítulo aqui exposto aborda conceitos gramaticais básicos; você deve os ler o mais rápido possível — é muito importante que, precisamente devido à aquisição precoce, os conceitos tenham tempo suficiente para amadurecer no seu subconsciente. Dessa forma, a revisão dos conceitos — que, a princípio, não foram propriamente absorvidos — adquire uma importância mais robusta, sólida.
 
-Every single main lesson in this guide covers basic grammar. You should read the entire thing as quickly as possible. It's important to get stuff in your head sooner rather than later. It gives it time to grow, subconsciously, and even if you didn't feel like you learned it the first time, it makes it easier to remember it for good next time. Just don't get stuck reviewing it forever.
+Em algum momento, este guia lhe dirá quando você deve começar a 'consumir' conteúdo japonês; no entanto, você é livre para tentar a qualquer momento.
 
-After you get far enough in this guide, you should start trying to consume Japanese content. Especially reading. This guide will tell you when it's a good time to start, but if you want to try earlier you don't need to wait.
+Visto que este guia te explique a gramática para que, enfim, você possa decompor os mecanismos da língua japonesa, é muito importante que você tente ler [em japonês] constantemente, podendo assim descobrir os seus pontos fracos.
 
-Trying to read on a regular basis, even if you can't do it for more than five minutes, tells you exactly what your weak points are, and gives you a sense of progress. This guide exposes you to grammar to let you break down things, but you need to consume real Japanese to turn that exposure into acquisition.
+A forma mais eficiente de aprender vocabulário é [selecionando palavras de materiais que você aprecia](https://lazyguidejp.github.io/jp-lazy-guide/) e memorizá-las com flashcards. Essa prática recebe o nome de mineração (mining, no original). O Anki é o programa mais recomendado para isto, já que opera sob um sistema de repetição espaçada, isto é, a frequência com que as cartas aparecem depende do grau de rememoração do estudante. Caso você não queira minerar, ou acha o processo de imersão na mídia japonesa muito difícil, pode usar uma lista de frequência ou um deck compartilhado a princípio. Um bom deck inicial é o [kaishi 1.5k](https://ankiweb.net/shared/info/1196762551).
 
-The most efficient way to learn vocabulary is to start [picking up words from media you enjoy](https://lazyguidejp.github.io/jp-lazy-guide/), then memorize them with flashcards. This is called mining. Anki is the recommended flashcard program because it uses Spaced Repetition, which shows you stuff less often the better you know it. You can use frequency lists or shared decks prepared by other people at first if you don't want to mine or find the process of immersing in Japanese media still too hard. A good starter deck is the [kaishi 1.5k](https://ankiweb.net/shared/info/1196762551) deck.
+Se o seu objetivo é aprender japonês, você deve, absolutamente, se familiarizar com a manifestação oral do japonês, isto é, a fala; caso contrário, a _sua_ manifestação oral da língua terá um aspecto bem diferente daquela pertencente aos nativos. Não importa se o tipo de mídia que você consome, contanto que seja oral. Este aspecto pode ser praticado após você aprender a ler — mas você deve, passivamente até, se expor ao idioma o mais cedo possível, de modo a evitar que você **a)** tenha dificuldade em diferenciar os fonemas, **b)** adquira um sotaque exagerado e **c)** uma reprodução do acento tonal totalmente incorreta.
 
-If you want to speak Japanese, you must consume audible spoken Japanese, otherwise you'll sound unnatural. It doesn't matter if it's anime or news or living in Japan, you just have to consume it in the spoken unwritten form. This can come after you learn how to read, but you should passively expose yourself to it (with anything: visual novels, music, anime, etc) as early as possible, otherwise it'll take a long time for your brain to pick up on nuanced sound differences, like how Japanese people need to be trained before they can tell apart L and R. If you spend most of your time reading and ignore the spoken language, you can also acquire unnatural pronunciation and pitch accent that might be harder to fix later.
+## "Ajuda\!"
 
-## "Help\!"
+Não se preocupe. Tente utilizar este guia dum modo tranquilo, sem estresse. Algumas coisas naturalmente levam tempo, então não se irrita porque algo é difícil.
 
-Don't sweat it. Try to find a way to use this guide in a nice low stress way. Don't angst out about something being hard. Some things just take time.
+Se você ainda não sabe o que fazer, ou voltou aqui porque está confuso:
 
-If you still don't know what to do, or you came back here confused:
+- Comece aprendendo o hiragana e o katakana fora deste guia.
+- Comece a estudar vocabulário fora deste guia.
+- Tenha em mente que nem todos os kanjis, quando tomados isoladamente, representam palavras japonesas completas.
+- Lembre-se que a língua japonesa não se trata duma conversão da língua portuguesa [nenhuma língua é assim, convenhamos].
+- Inúmeros termos não farão sentido se interpretados sob uma ótica alheia à japonesa.
+- Você não pode aprender um idioma sem consumi-lo.
+- Muitas coisas não farão sentido — até que você consuma materiais japoneses o suficiente.
+- Continue, sempre, seguindo em frente. Isto é o que lhe permite aprender o idioma.
 
-- Start learning the hiragana and katakana outside this guide.
-- Start studying vocabulary outside this guide.
-- Understand that not all individual kanji represent complete Japanese words.
-- Remind yourself that Japanese is not a literal transposition of English word-by-word.
-- A lot of concepts will not make sense in terms of literal English.
-- You can't acquire a language without consuming it.
-- Until you consume enough Japanese, some things simply won't click.
-- Always keep moving forward. That's what gives you the language.
-
-Do not memorize this guide. It won't work. It might even be bad for you.
+Não memorize esse guia. Isso não vai funcionar. Na verdade, tentá-lo pode até ser maléfico para você.
 
 <iframe width="560" height="315"
 src="https://www.youtube.com/embed/G5IPArDxO40?si=oF-5bVY6SNMsnPTY"
@@ -57,10 +55,11 @@ clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
 referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
-## Still stuck?
+## Ainda com dificuldade?
 
-It's true that everyone learns the same way when it comes to mastery, fluency, exposure, and real world experience, but it's not true that everyone learns the same way when it comes to deliberate study. This guide is deliberate study, and it might not be right for everyone. If it doesn't start working after two weeks, try other resources. Reading explanations about the same thing in different places can make it easier to understand.
+É verdade que todos aprendem do mesmo modo quando o assunto é maestria, fluência, exposição e experiência do mundo real, mas não é verdade que todos aprendem da mesma forma no que concerne estudo deliberado. O sucesso deste guia depende de estudo deliberado, e isso pode não funcionar para todos. Se não começar a funcionar após duas semanas, experimente outros materiais. Ler explicações sobre a mesma coisa em lugares diferentes pode tornar a sua compreensão mais clara.
 
-Just make sure you don't burn yourself out trying to master them. Mastery only comes from real world experience, and in the case of language learning, that means reading and listening.
 
-[image1]: https://www.markdownguide.org/assets/images/generated/assets/images/tux-1080.webp
+Apenas certifique-se de não esgotar as suas energias tentando masterizá-las [as explicações]. Maestria só é obtida mediante experiência concreta, no mundo real; no caso do aprendizado de idiomas, isso significa ler e ouvir.
+
+[image1]: https://files.catbox.moe/15xiw4.png
