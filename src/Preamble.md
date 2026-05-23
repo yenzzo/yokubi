@@ -1,21 +1,19 @@
 # Preamble
 
-This guide will cover most of the grammar needed to understand basic japanese. It's not going to go into too much detail, and it won't cover much vocabulary. If you are reading this in a browser, install a dictionary lookup extension like [Yomitan](https://yomitan.wiki/) so you can easily look up the words in the example sentences. Some words are basically grammar, though, so they will come up in specific lessons. 
+O objetivo principal deste guia é explicar o suficiente de gramática para que você, ao terminá-lo, seja capaz de entender a língua japonesa; ele não irá entrar em muito detalhes nem se aprofundar em vocabulário. Caso esteja lendo isso em um navegador, instale uma extensão como o [Yomitan](https://yomitan.wiki/) — assim você será capaz de pesquisar o significado das palavras (em japonês) ao selecioná-las.
 
-There are no exercises:
+Não há exercícios:
 
-- Skill building, as in reading a grammar explanation and answering questions about it, doesn't work when it comes to learning a new language.  
-- A lot of people are poisoned by modern education and will basically fry their brains if there's anything to "work" on.  
-- Grammar guides are a terrible place to learn vocabulary.
+- No estudo de novos idiomas, a prática de ler uma explicação -> responder questões sobre esta explicação -> adquirir uma habilidade nova não dá certo. Aquisição de um novo idioma não funciona desta forma.
+- O sistema educacional moderno corrompeu as pessoas de tal modo que estas, ante a ausência dum sistema de aquisição de habilidade (como explicado acima), enlouquecem.
+- Aprender vocabulário em guias de gramática é uma péssima ideia.
 
-If you want to pass a Japanese proficiency test, like the JLPT, this guide isn't targeted at you. You will likely be fine if you use it, because achieving Japanese proficiency is all that is needed to pass such tests, but it will likely betray your expectations in the short term. The topics in this guide are not sorted by JLPT difficulty and if your goal is to pass early levels in a short amount of time, you might be better off using JLPT-specific resources instead.
+Se o seu objetivo é passar num teste de proficiência em japonês, como o JLPT, esse guia não é para você. Os tópicos deste guia não são organizados de acordo com o JLPT, portanto você provavelmente terá maiores resultados se utilizar outros materiais; isso não significa, todavia, que este guia é, nesse caso, inutilizável: tornar-se proficiente no idioma é tudo que testes do tipo exigem, mesmo que este em especial não atenda as suas expectativas a curto prazo.
 
-Not even the best linguists in the entire world can explain simple ideas like "gonna" with any less than an impenetrable book-length essay. That's not a matter of philosophy, it's a matter of explaining what things really mean, or how they work. Simple incomplete explanations are good, but have holes in them. This guide tries to walk the line and warn you about things it can't explain, but it's really hard. As a reader, you are expected to be flexible and take things written here at "face value". Understand that this is **how** Japanese works, and that asking **why** is often not going to lead you anywhere.
+Nem mesmo os melhores linguistas do mundo conseguem explicar construções simples como "gonna" sem evitar redigir um texto do tamanho dum livro para fazê-lo. Não estamos aqui nos desviando do que importa para penetrar no domínio da filosofia; estamos, simplesmente, tentando explicar como as coisas funcionam, ou o que elas significam. Explicações simples (mas incompletas) são boas, mas ainda possuem lacunas a serem preenchidas. Este guia tenta evitar precisamente isso e lhe avisar quando não pode explicar um conceito; mas isso é extremamente difícil. Por isso, você, como leitor, deve interpretar o que é dito não como verdade absoluta, mas como uma verdade mais ou menos aceita. Quanto mais cedo você aceitar que essa é a forma **como** o japonês funciona, e que tentar entender **por que** ele funciona dessa forma não vai te levar a lugar nenhum, melhor.
 
-This grammar guide does its best to give you some basic exposure to Japanese grammar. It can't **teach** you it. It can only introduce you to it. Your job is to turn that exposure into acquisition. The exposure is just a foot in the door.
+Esse guia dá o seu melhor quando o assunto é **apresentar** a gramática básica da língua japonesa; todavia, não é capaz de **ensiná-la**, somente introduzi-la. Em outras palavras, esse guia lhe dá um pontapé inicial: o seu trabalho é transformar essa breve exposição em aquisição.
 
-And, by all means, if something is too hard, skip it. You're not trying to memorize something so you can pass a test. You're not trying to memorize something so you can identify it with 100% precision when you're consuming Japanese.
+E, acima de tudo, se você está tendo muita dificuldade com alguma parte, pule-a. Você não está (ou não deveria, pelo menos) lendo este guia com o intuito de memorizá-lo para passar em algum teste, muito menos identificar com cem por cento de precisâo os elementos do idioma.
 
-You're trying to get something into your head. If you can't, that's fine, you'll pick it up naturally later.
-
-Don't look back.
+Pelo contrário: você está tentando _aprender_ alguma coisa. Na eventual circunstância de não consegui-lo, ignore-o e retome o seu estudo mais tarde. É bem provável que, após aprender tantas coisas novas, você seja capaz de finalmente entendê-la.
