@@ -1,4 +1,5 @@
 # [Tradução em Andamento. . .]
+# No artificial intelligence was used whatsoever in the translation of this guide.
 
 # Yokubi 
 
